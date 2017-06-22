@@ -25,7 +25,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Walkthrough](walkthrough.gif)
 <img src='https://raw.githubusercontent.com/adolison/SimpleToDo/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
